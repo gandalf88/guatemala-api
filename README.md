@@ -3,6 +3,10 @@
 
 Hacer git clone del Proyecto
 
+Ejecutar en la raiz del proyecto 
+
+    composer install
+
 Ajustar el archivo.env en base a su base de datos
 
     DB_CONNECTION=mysql
